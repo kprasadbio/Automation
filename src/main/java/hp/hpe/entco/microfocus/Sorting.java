@@ -61,6 +61,7 @@ public class Sorting
 	}
 
 	@SuppressWarnings({ "rawtypes", "unchecked" })
+	@Test
 	public static void Sorting1() 
 	{ 
 		//WebDriverManager.chromedriver().setup();
