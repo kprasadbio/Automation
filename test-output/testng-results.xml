@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16929" started-at="2019-05-27T10:21:58Z" finished-at="2019-05-27T10:22:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16929" started-at="2019-05-27T10:21:58Z" finished-at="2019-05-27T10:22:15Z">
+      <class name="hp.hpe.entco.microfocus.Sorting">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hp.hpe.entco.microfocus.Sorting@7ca48474]" name="setup" is-config="true" duration-ms="5262" started-at="2019-05-27T15:51:58Z" finished-at="2019-05-27T15:52:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Sorting2()[pri:0, instance:hp.hpe.entco.microfocus.Sorting@7ca48474]" name="Sorting2" duration-ms="10235" started-at="2019-05-27T15:52:04Z" finished-at="2019-05-27T15:52:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sorting2 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:hp.hpe.entco.microfocus.Sorting@7ca48474]" name="close" is-config="true" duration-ms="1417" started-at="2019-05-27T15:52:14Z" finished-at="2019-05-27T15:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- hp.hpe.entco.microfocus.Sorting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
