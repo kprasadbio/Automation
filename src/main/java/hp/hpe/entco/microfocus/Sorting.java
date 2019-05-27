@@ -28,6 +28,7 @@ public class Sorting
 		System.setProperty("webdriver.gecko.driver", "C:/Users/lvpkanch/Downloads/geckodriver/geckodriver.exe");
 		//WebDriver driver=new ChromeDriver();
 		driver=new FirefoxDriver();
+		//driver=new ChromeDriver(); 
 	}
 	
 	@SuppressWarnings({ "rawtypes", "unchecked" })
